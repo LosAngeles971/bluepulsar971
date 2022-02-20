@@ -1,6 +1,5 @@
 baseURL = 'https://losangeles971.github.io/bluepulsar971/'
 languageCode = 'en-us'
-title = ''
 theme = "ananke"
 resourceDir = "resources"
 
@@ -22,7 +21,7 @@ canonifyurls = true
   text_color = ""
   author = "@bluepulsar971"
   favicon = ""
-  site_logo = ""
+  site_logo = "images/logo.png"
   description = ""
   background_color_class = "bg-black"
   recent_posts_number = 10

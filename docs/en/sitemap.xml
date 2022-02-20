@@ -3,7 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://losangeles971.github.io/bluepulsar971/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
@@ -15,29 +14,17 @@
                 href="https://losangeles971.github.io/bluepulsar971/"
                 />
   </url><url>
-    <loc>https://losangeles971.github.io/bluepulsar971/post/chapter-1/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-  </url><url>
-    <loc>https://losangeles971.github.io/bluepulsar971/post/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-  </url><url>
-    <loc>https://losangeles971.github.io/bluepulsar971/tags/scene/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-  </url><url>
-    <loc>https://losangeles971.github.io/bluepulsar971/tags/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+    <loc>https://losangeles971.github.io/bluepulsar971/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://losangeles971.github.io/bluepulsar971/it/tags/"
+                href="https://losangeles971.github.io/bluepulsar971/it/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://losangeles971.github.io/bluepulsar971/tags/"
+                href="https://losangeles971.github.io/bluepulsar971/contact/"
                 />
-  </url><url>
-    <loc>https://losangeles971.github.io/bluepulsar971/contact/</loc>
   </url><url>
     <loc>https://losangeles971.github.io/bluepulsar971/categories/</loc>
     <xhtml:link
@@ -49,6 +36,24 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://losangeles971.github.io/bluepulsar971/categories/"
+                />
+  </url><url>
+    <loc>https://losangeles971.github.io/bluepulsar971/tags/music/</loc>
+  </url><url>
+    <loc>https://losangeles971.github.io/bluepulsar971/music/</loc>
+  </url><url>
+    <loc>https://losangeles971.github.io/bluepulsar971/music/oddity/</loc>
+  </url><url>
+    <loc>https://losangeles971.github.io/bluepulsar971/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://losangeles971.github.io/bluepulsar971/it/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://losangeles971.github.io/bluepulsar971/tags/"
                 />
   </url>
 </urlset>

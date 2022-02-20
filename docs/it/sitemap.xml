@@ -14,6 +14,18 @@
                 href="https://losangeles971.github.io/bluepulsar971/it/"
                 />
   </url><url>
+    <loc>https://losangeles971.github.io/bluepulsar971/it/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://losangeles971.github.io/bluepulsar971/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://losangeles971.github.io/bluepulsar971/it/contact/"
+                />
+  </url><url>
     <loc>https://losangeles971.github.io/bluepulsar971/it/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -25,6 +37,12 @@
                 hreflang="it"
                 href="https://losangeles971.github.io/bluepulsar971/it/categories/"
                 />
+  </url><url>
+    <loc>https://losangeles971.github.io/bluepulsar971/it/fantacalcio/</loc>
+  </url><url>
+    <loc>https://losangeles971.github.io/bluepulsar971/it/fantacalcio/albo/</loc>
+  </url><url>
+    <loc>https://losangeles971.github.io/bluepulsar971/it/fantacalcio/lega/</loc>
   </url><url>
     <loc>https://losangeles971.github.io/bluepulsar971/it/tags/</loc>
     <xhtml:link
