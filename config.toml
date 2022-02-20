@@ -6,6 +6,7 @@ resourceDir = "resources"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
+canonifyurls = true
 
 [languages]
   [languages.en]
