@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://losangeles971.github.io/it/</loc>
+    <loc>https://losangeles971.github.io/bluepulsar971/it/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://losangeles971.github.io/"
+                href="https://losangeles971.github.io/bluepulsar971/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://losangeles971.github.io/it/"
+                href="https://losangeles971.github.io/bluepulsar971/it/"
                 />
   </url><url>
-    <loc>https://losangeles971.github.io/it/categories/</loc>
+    <loc>https://losangeles971.github.io/bluepulsar971/it/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://losangeles971.github.io/categories/"
+                href="https://losangeles971.github.io/bluepulsar971/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://losangeles971.github.io/it/categories/"
+                href="https://losangeles971.github.io/bluepulsar971/it/categories/"
                 />
   </url><url>
-    <loc>https://losangeles971.github.io/it/tags/</loc>
+    <loc>https://losangeles971.github.io/bluepulsar971/it/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://losangeles971.github.io/tags/"
+                href="https://losangeles971.github.io/bluepulsar971/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://losangeles971.github.io/it/tags/"
+                href="https://losangeles971.github.io/bluepulsar971/it/tags/"
                 />
   </url>
 </urlset>
