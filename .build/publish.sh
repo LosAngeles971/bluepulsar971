@@ -1,3 +1,3 @@
 #!/bin/bash
 cd bluepulsar971
-hugo.exe -D
+hugo.exe -D -d docs
