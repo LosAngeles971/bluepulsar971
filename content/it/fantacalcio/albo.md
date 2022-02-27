@@ -4,7 +4,6 @@ featured_image: ''
 omit_header_text: true
 description: La lega di Fantacalcio Bitcoin League
 type: page
-menu: main
 ---
 
 # Stagione 2017/2018

@@ -38,9 +38,11 @@
                 href="https://losangeles971.github.io/bluepulsar971/categories/"
                 />
   </url><url>
+    <loc>https://losangeles971.github.io/bluepulsar971/music/</loc>
+  </url><url>
     <loc>https://losangeles971.github.io/bluepulsar971/tags/music/</loc>
   </url><url>
-    <loc>https://losangeles971.github.io/bluepulsar971/music/</loc>
+    <loc>https://losangeles971.github.io/bluepulsar971/technology/mypubblications/</loc>
   </url><url>
     <loc>https://losangeles971.github.io/bluepulsar971/music/oddity/</loc>
   </url><url>
@@ -55,5 +57,9 @@
                 hreflang="en"
                 href="https://losangeles971.github.io/bluepulsar971/tags/"
                 />
+  </url><url>
+    <loc>https://losangeles971.github.io/bluepulsar971/technology/</loc>
+  </url><url>
+    <loc>https://losangeles971.github.io/bluepulsar971/tags/technology/</loc>
   </url>
 </urlset>

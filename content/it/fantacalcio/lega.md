@@ -4,7 +4,6 @@ featured_image: ''
 omit_header_text: true
 description: La lega di Fantacalcio Bitcoin League
 type: page
-menu: main
 ---
 
 Nata nel 2017 dalla fusione di Bitcoin e l'Ospizio dei Sette Colli di Roma, la [Bitcoin League](https://leghe.fantagazzetta.com/bitcoinleague/info) è una competizione di Fantacalcio.

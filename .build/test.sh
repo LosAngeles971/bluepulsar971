@@ -1,3 +1,2 @@
 #!/bin/bash
-cd bluepulsar971
-hugo.exe server -D
+.build/hugo.exe server -D
